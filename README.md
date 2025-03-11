@@ -1,6 +1,12 @@
-# Jira Issues Extraction and Reporting
+# Jira-Issues-Extraction
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?logo=jira&logoColor=white)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This script extracts Jira issues using the Jira API, stores them in a SQLite database, and generates summary reports in Excel format.
+
+This Python script extracts Jira issues using the Jira API, stores them in a SQLite database, and generates summary reports in Excel format.
 
 ## Features
 - Connects to Jira using API credentials
@@ -43,4 +49,11 @@ If the script fails to connect to Jira, it will print an error message and exit.
 
 ## License
 This project is licensed under the MIT License.
+
+
+<div align="right">
+
+[Back To Top ⬆️](#Jira-Issues-Extraction)
+</div>
+
 
