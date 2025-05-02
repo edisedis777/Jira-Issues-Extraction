@@ -5,8 +5,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Spreadsheet-217346?logo=microsoft-excel&logoColor=white)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 
 This Python script extracts Jira issues using the Jira API, stores them in a SQLite database, and generates summary reports in Excel format.
 
@@ -50,7 +48,7 @@ python script.py
 If the script fails to connect to Jira, it will print an error message and exit.
 
 ## License
-This project is licensed under the MIT License.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 
 <div align="right">
